@@ -1844,38 +1844,6 @@
     "fileHash": "sha256-ed81a947a5fcb2cfa6fc6fadf642afb3ba5b650ae5acef726d3ed6d25a65ab4a"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/a30f3a25fefc0dff9fd4b6af46a5eb58290b0289/TurkSinema.cs3",
-    "status": 3,
-    "version": 6,
-    "name": "TurkSinema",
-    "internalName": "TurkSinema",
-    "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
-    ],
-    "description": "Tek pakette 59 Türkçe film, dizi, anime ve belgesel sağlayıcısı.",
-    "fileSize": 1652835,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-f4e7b1b2987cd5712387d71b8d3dd050b4989622e15e2cf9909f1375c49ccfff"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/a30f3a25fefc0dff9fd4b6af46a5eb58290b0289/TurkSinemaDestek.cs3",
     "status": 1,
     "version": 1,
