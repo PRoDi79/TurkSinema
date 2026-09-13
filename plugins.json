@@ -1969,37 +1969,6 @@
     "fileHash": "sha256-756f3b5ddfcae665c9e9c3247c4a0df416c096ebe99766c39752616760b18654"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/a30f3a25fefc0dff9fd4b6af46a5eb58290b0289/WioSinema.cs3",
-    "status": 3,
-    "version": 6,
-    "name": "WioSinema",
-    "internalName": "WioSinema",
-    "authors": [
-      "Wiojelt",
-      "Saloo1575",
-      "keyiflerolsun",
-      "JustRelaxable",
-      "usdogu",
-      "hexated",
-      "patron",
-      "nikyokki",
-      "SaurabhKaperwan",
-      "megix"
-    ],
-    "description": "Tüm Türkçe film ve dizi sağlayıcıları tek eklentide. TMDB katalog ve çoklu kaynak akışı.",
-    "fileSize": 1711761,
-    "repositoryUrl": "https://github.com/Wiojelt/WioSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/WioSinema/main/assets/logo.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-4c941d234593b4eff60c59da2edc2297df8103ad1249c4456f1e596efd2b9e76"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/a30f3a25fefc0dff9fd4b6af46a5eb58290b0289/YabanciDizi.cs3",
     "status": 3,
     "version": 7,
