@@ -895,29 +895,6 @@
     "fileHash": "sha256-ca95aa57baf498cfc4f3056388a51a1d806160a218167b44adc9c309ef4a5474"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/a30f3a25fefc0dff9fd4b6af46a5eb58290b0289/InternetArchive.cs3",
-    "status": 3,
-    "version": 7,
-    "name": "InternetArchive",
-    "internalName": "InternetArchive",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Internet Archive · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 29566,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=archive.org&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-a807dcc611696fb03657a6c7f3c1c6914681ff6f1132603a9adb04b254a1ef26"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/a30f3a25fefc0dff9fd4b6af46a5eb58290b0289/JetFilmizle.cs3",
     "status": 3,
     "version": 8,
@@ -1435,6 +1412,7 @@
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
     "fileSize": 1732236,
     "fileHash": "sha256-06cc3175506b6c3442864d217c04bbe8fe9456237f61f72e4daa5b2501b4f0a8",
-    "status": 3
+    "status": 3,
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TurkSinema.cs3"
   }
 ]
