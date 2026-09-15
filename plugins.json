@@ -20,7 +20,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/AltiYuzAltmisAltiFilmIzle.png",
     "apiVersion": 1,
-    "fileHash": "61e318bf35abd53a9199ec8f3d62f1e3c8c232cb0d41da42fc35cf934a369635"
+    "fileHash": "sha256-61e318bf35abd53a9199ec8f3d62f1e3c8c232cb0d41da42fc35cf934a369635"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/AnimeciX.cs3",
@@ -43,7 +43,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.tv&sz=128",
     "apiVersion": 1,
-    "fileHash": "b6a5fa9bc404b991766be6643bc3ac08bc5df210b7b212e9636cd095c39b4195"
+    "fileHash": "sha256-b6a5fa9bc404b991766be6643bc3ac08bc5df210b7b212e9636cd095c39b4195"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Anizium.cs3",
@@ -65,7 +65,7 @@
     ],
     "iconUrl": "https://x.anizium.co/assets/index/img/embed-logo.png",
     "apiVersion": 1,
-    "fileHash": "d628e534c4643961501bb4a18a65d3549f18d0e35a62a1913865a56d8be27dbe"
+    "fileHash": "sha256-d628e534c4643961501bb4a18a65d3549f18d0e35a62a1913865a56d8be27dbe"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/AsyaAnimeleri.cs3",
@@ -88,7 +88,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=128",
     "apiVersion": 1,
-    "fileHash": "e2c31b6aaa0d6ebd36601695172101465c3342f82c6ee3b05c94c47c3ca96f25"
+    "fileHash": "sha256-e2c31b6aaa0d6ebd36601695172101465c3342f82c6ee3b05c94c47c3ca96f25"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/BelgeselX.cs3",
@@ -111,7 +111,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=belgeselx.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "011b8fa8bc37925c1888fa0cad5f67c40ff58204119d0f65ec5031776a5d4810"
+    "fileHash": "sha256-011b8fa8bc37925c1888fa0cad5f67c40ff58204119d0f65ec5031776a5d4810"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CineSimkl.cs3",
@@ -134,7 +134,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=simkl.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "de14bbf44d2a908b1b91d5208b57dd1473c05c0e30074eb397d2ea569f0ec1a7"
+    "fileHash": "sha256-de14bbf44d2a908b1b91d5208b57dd1473c05c0e30074eb397d2ea569f0ec1a7"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CineStream.cs3",
@@ -157,7 +157,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/master/CineStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "eebc1dd648eac66315c9ceaf8f409a575194261732731e89ab3aca162a3970f9"
+    "fileHash": "sha256-eebc1dd648eac66315c9ceaf8f409a575194261732731e89ab3aca162a3970f9"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CizgiMax.cs3",
@@ -180,7 +180,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=128",
     "apiVersion": 1,
-    "fileHash": "3ed4431c31803bd4eb215eee7c3b02931dd7269925e819cd1f97c5c6e0113c19"
+    "fileHash": "sha256-3ed4431c31803bd4eb215eee7c3b02931dd7269925e819cd1f97c5c6e0113c19"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/ClipBox.cs3",
@@ -203,7 +203,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/ClipBox.png",
     "apiVersion": 1,
-    "fileHash": "58b02a7562755d3f3949110f1a29545f903d1e29ffa04f164e579c1105b9e313"
+    "fileHash": "sha256-58b02a7562755d3f3949110f1a29545f903d1e29ffa04f164e579c1105b9e313"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CNCVerseDisneyPlus.cs3",
@@ -226,7 +226,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
     "apiVersion": 1,
-    "fileHash": "065d4aadb406fa71419187b278d01fc369ce2bc3e8f72bdc642d728b2abce132"
+    "fileHash": "sha256-065d4aadb406fa71419187b278d01fc369ce2bc3e8f72bdc642d728b2abce132"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CNCVerseHotstar.cs3",
@@ -249,7 +249,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
     "apiVersion": 1,
-    "fileHash": "a6c8b514a379b17497e3398016567c3136035ada93ffcfb0114930ee11738223"
+    "fileHash": "sha256-a6c8b514a379b17497e3398016567c3136035ada93ffcfb0114930ee11738223"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CNCVerseNetflix.cs3",
@@ -272,7 +272,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
     "apiVersion": 1,
-    "fileHash": "82d30f9d1f4295d37ff4675199d8674e91bf344f738992589ce9d72c56bb69dd"
+    "fileHash": "sha256-82d30f9d1f4295d37ff4675199d8674e91bf344f738992589ce9d72c56bb69dd"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CNCVersePrimeVideo.cs3",
@@ -295,7 +295,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
     "apiVersion": 1,
-    "fileHash": "1dea4a1ba42f4099af1a86387b958ed13323d05945caf0e05fa07687dd5fa29f"
+    "fileHash": "sha256-1dea4a1ba42f4099af1a86387b958ed13323d05945caf0e05fa07687dd5fa29f"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DDizi.cs3",
@@ -318,30 +318,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.ddizi.im&sz=128",
     "apiVersion": 1,
-    "fileHash": "78a706de64a523141f94029f995e2d585cdd8d49fdd7952224f85ac76b7c4b03"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DDiziAlternatif.cs3",
-    "status": 3,
-    "version": 7,
-    "name": "DDiziAlternatif",
-    "internalName": "DDiziAlternatif",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "D Dizi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 40265,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.ddizi.im&sz=128",
-    "apiVersion": 1,
-    "fileHash": "59a484133e0ed839ca8d918a8632472f20c49e21b9b1cae882e69a82134cee4a"
+    "fileHash": "sha256-78a706de64a523141f94029f995e2d585cdd8d49fdd7952224f85ac76b7c4b03"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Deokwave.cs3",
@@ -363,7 +340,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=deokwave.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "179b08aa60846c1b6725dbaef275a002e3d2a1b3948010a60de4be2b59ae241e"
+    "fileHash": "sha256-179b08aa60846c1b6725dbaef275a002e3d2a1b3948010a60de4be2b59ae241e"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziBal.cs3",
@@ -386,7 +363,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizibal.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "f77ada5053e7814649daf3d1e1ba28882e8a98825f620ec1b87d84db3eac6f20"
+    "fileHash": "sha256-f77ada5053e7814649daf3d1e1ba28882e8a98825f620ec1b87d84db3eac6f20"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziBol.cs3",
@@ -409,7 +386,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizibol.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "3ce8181b76a40b3033733edc47820732d19d65a7a0d28d78be23490ea3e42537"
+    "fileHash": "sha256-3ce8181b76a40b3033733edc47820732d19d65a7a0d28d78be23490ea3e42537"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziBox.cs3",
@@ -432,7 +409,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=128",
     "apiVersion": 1,
-    "fileHash": "85d2ace7ba3ecf92ed61a941ad0baf63cd04246c1c5687b1a819850320137b71"
+    "fileHash": "sha256-85d2ace7ba3ecf92ed61a941ad0baf63cd04246c1c5687b1a819850320137b71"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziBoxAlternatif.cs3",
@@ -455,7 +432,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=128",
     "apiVersion": 1,
-    "fileHash": "5036a26b04c9b38abec07ccd343c3056e9dfa93a4046f94595c08fb8a31ea107"
+    "fileHash": "sha256-5036a26b04c9b38abec07ccd343c3056e9dfa93a4046f94595c08fb8a31ea107"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziFilmIzle.cs3",
@@ -478,7 +455,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziFilmIzle.jpg",
     "apiVersion": 1,
-    "fileHash": "fc02aec29c89e36b6b9fff21e3ecebbfa3a2e05e5462e5258bf2e3252fea72c5"
+    "fileHash": "sha256-fc02aec29c89e36b6b9fff21e3ecebbfa3a2e05e5462e5258bf2e3252fea72c5"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziKorea.cs3",
@@ -501,7 +478,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizikorea3.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "ec23ad5a49e08a427d4144e34e42dba67b67044bb88bb66723b382e42d6bf85b"
+    "fileHash": "sha256-ec23ad5a49e08a427d4144e34e42dba67b67044bb88bb66723b382e42d6bf85b"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Dizilla.cs3",
@@ -524,7 +501,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=128",
     "apiVersion": 1,
-    "fileHash": "38ccdd9f44333fb3272d6f79e8b524e3b57f1802c857b6007e099a3f815afee4"
+    "fileHash": "sha256-38ccdd9f44333fb3272d6f79e8b524e3b57f1802c857b6007e099a3f815afee4"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziMom.cs3",
@@ -547,7 +524,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziMom.png",
     "apiVersion": 1,
-    "fileHash": "e642f9755288ebf278b4a09707680fbaa095462c086c06120230ffe704243628"
+    "fileHash": "sha256-e642f9755288ebf278b4a09707680fbaa095462c086c06120230ffe704243628"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziPal.cs3",
@@ -570,7 +547,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
     "apiVersion": 1,
-    "fileHash": "4295d11942180c5a90d48c085e627ce95e98000dae6dd79d399c56e7145d2e5e"
+    "fileHash": "sha256-4295d11942180c5a90d48c085e627ce95e98000dae6dd79d399c56e7145d2e5e"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziPalOriginal.cs3",
@@ -593,7 +570,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal2123.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "5673c05930c173e083335fed96bd31869f9740d70f76d65c30957c7bb4409993"
+    "fileHash": "sha256-5673c05930c173e083335fed96bd31869f9740d70f76d65c30957c7bb4409993"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziRella.cs3",
@@ -616,7 +593,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizirella.net&sz=128",
     "apiVersion": 1,
-    "fileHash": "fb748190d6d98d7c385f929c56cc81424134d48630b4a1f7770603ca1e1e524f"
+    "fileHash": "sha256-fb748190d6d98d7c385f929c56cc81424134d48630b4a1f7770603ca1e1e524f"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziYou.cs3",
@@ -639,7 +616,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.diziyou.one&sz=128",
     "apiVersion": 1,
-    "fileHash": "7710311bbeb4621ededc2815a8815967fd95ad989d89e4a491e650c8108bf91a"
+    "fileHash": "sha256-7710311bbeb4621ededc2815a8815967fd95ad989d89e4a491e650c8108bf91a"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/FilmIzzle.cs3",
@@ -662,7 +639,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmizzle.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "689f616f6bef68caa328c8f4e7331908c764385be2180926d0cbba2e0cae2b0c"
+    "fileHash": "sha256-689f616f6bef68caa328c8f4e7331908c764385be2180926d0cbba2e0cae2b0c"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/FilmMakinesi.cs3",
@@ -685,7 +662,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.to&sz=128",
     "apiVersion": 1,
-    "fileHash": "b9af5747401e06354a7aefc2bf1ad9c4e13c96c5ca307cdccf78fd9725ddda82"
+    "fileHash": "sha256-b9af5747401e06354a7aefc2bf1ad9c4e13c96c5ca307cdccf78fd9725ddda82"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/FilmModu.cs3",
@@ -708,7 +685,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/FilmModu.png",
     "apiVersion": 1,
-    "fileHash": "03232666a982678a8e34b28793332685c6e18760a46de31ff5610983fb6c90e4"
+    "fileHash": "sha256-03232666a982678a8e34b28793332685c6e18760a46de31ff5610983fb6c90e4"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/FlixNetwork.cs3",
@@ -731,7 +708,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=flixnetwork.is&sz=128",
     "apiVersion": 1,
-    "fileHash": "ce07999d9c58a1308b2a6daf63426f8275bc85b0896dff8fb75f472131fcd4cd"
+    "fileHash": "sha256-ce07999d9c58a1308b2a6daf63426f8275bc85b0896dff8fb75f472131fcd4cd"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/FullHDFilm.cs3",
@@ -754,7 +731,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilm.us&sz=128",
     "apiVersion": 1,
-    "fileHash": "eddb693c00f341a0cbf515161c33c81040dd95d59985bb83ab5944c9e455d879"
+    "fileHash": "sha256-eddb693c00f341a0cbf515161c33c81040dd95d59985bb83ab5944c9e455d879"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/FullHDFilmizlesene.cs3",
@@ -777,7 +754,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.now&sz=128",
     "apiVersion": 1,
-    "fileHash": "368dc5af95e783d2c0fa6f5cde93c815e08a3775ac0e7ded0d50171ed13de891"
+    "fileHash": "sha256-368dc5af95e783d2c0fa6f5cde93c815e08a3775ac0e7ded0d50171ed13de891"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/HDFilmCehennemi.cs3",
@@ -800,7 +777,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi.nl&sz=128",
     "apiVersion": 1,
-    "fileHash": "b40b14cf2658254cd36a2f36105f416774e6837f83cb10ce4209859a4af6ec1a"
+    "fileHash": "sha256-b40b14cf2658254cd36a2f36105f416774e6837f83cb10ce4209859a4af6ec1a"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/HDFilmDelisi.cs3",
@@ -823,7 +800,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmdelisi.one&sz=128",
     "apiVersion": 1,
-    "fileHash": "e7fd383181435ecbbc229ac4602e9bda09d7fedeb5dff2f37df7499216e6189e"
+    "fileHash": "sha256-e7fd383181435ecbbc229ac4602e9bda09d7fedeb5dff2f37df7499216e6189e"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/HDFilmizleBest.cs3",
@@ -846,7 +823,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmizle.best&sz=128",
     "apiVersion": 1,
-    "fileHash": "1bf8a5e6ef49e4caac3605498f6cf3e54f398526cdc4820e395ba9199b373de0"
+    "fileHash": "sha256-1bf8a5e6ef49e4caac3605498f6cf3e54f398526cdc4820e395ba9199b373de0"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/HDFilmIzleInk.cs3",
@@ -869,7 +846,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.ink&sz=128",
     "apiVersion": 1,
-    "fileHash": "2bed140ed34cfd054f2e8263bfcd9280b92fe41002a0cd21a066b357dbc01035"
+    "fileHash": "sha256-2bed140ed34cfd054f2e8263bfcd9280b92fe41002a0cd21a066b357dbc01035"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/HDFilmIzleVip.cs3",
@@ -892,7 +869,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmizle.vip&sz=128",
     "apiVersion": 1,
-    "fileHash": "ca95aa57baf498cfc4f3056388a51a1d806160a218167b44adc9c309ef4a5474"
+    "fileHash": "sha256-ca95aa57baf498cfc4f3056388a51a1d806160a218167b44adc9c309ef4a5474"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/JetFilmizle.cs3",
@@ -915,7 +892,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=jetfilmizle.now&sz=128",
     "apiVersion": 1,
-    "fileHash": "0f554cc2e3b431c9b59c61593ecfdb8922897d326e78b3e5ca4cb5edbb59a247"
+    "fileHash": "sha256-0f554cc2e3b431c9b59c61593ecfdb8922897d326e78b3e5ca4cb5edbb59a247"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/KultFilmler.cs3",
@@ -938,7 +915,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=128",
     "apiVersion": 1,
-    "fileHash": "d5d1761ddc967127d276cdc851c096778621459495e7a9b84438bb379966a03d"
+    "fileHash": "sha256-d5d1761ddc967127d276cdc851c096778621459495e7a9b84438bb379966a03d"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/LiderFilmIzle.cs3",
@@ -961,7 +938,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=liderfilmizle.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "8755ddac38e6e3f7c2a0a0b9c9ca653bbbb561eae7c7652013ded4b14e30f1b6"
+    "fileHash": "sha256-8755ddac38e6e3f7c2a0a0b9c9ca653bbbb561eae7c7652013ded4b14e30f1b6"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/MovieBoxProvider.cs3",
@@ -982,7 +959,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/CNCVerse.png",
     "apiVersion": 1,
-    "fileHash": "5ddbfba13f10d1bb92df74d475c6c04a7c11dc108a91d72230a33aa71352b98c",
+    "fileHash": "sha256-5ddbfba13f10d1bb92df74d475c6c04a7c11dc108a91d72230a33aa71352b98c",
     "externalPath": "external/CNCVerse/MovieBoxProvider.cs3"
   },
   {
@@ -1006,7 +983,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=netfilmizle.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "055690b23d78b32b8971978ff934e094036c7aa6946d26155d9d011f60300675"
+    "fileHash": "sha256-055690b23d78b32b8971978ff934e094036c7aa6946d26155d9d011f60300675"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/RareFilmm.cs3",
@@ -1029,7 +1006,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=rarefilmm.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "fe1fa99a4950ac5e71683cf13f5d5746605a58dc6ce9ea2eab011f63eedf04e9"
+    "fileHash": "sha256-fe1fa99a4950ac5e71683cf13f5d5746605a58dc6ce9ea2eab011f63eedf04e9"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SetFilmIzle.cs3",
@@ -1052,7 +1029,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.setfilmizle.ltd&sz=128",
     "apiVersion": 1,
-    "fileHash": "430a34e0f1fc8b754887bcfe9b8a9c27202fe2cb731aa456d1751f30a45e4c32"
+    "fileHash": "sha256-430a34e0f1fc8b754887bcfe9b8a9c27202fe2cb731aa456d1751f30a45e4c32"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SezonlukDizi.cs3",
@@ -1075,7 +1052,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi.cc&sz=128",
     "apiVersion": 1,
-    "fileHash": "7d73f6bde920265bd2f3c6f21c01dad0fc141752f625f2cfd07b3ab846db9657"
+    "fileHash": "sha256-7d73f6bde920265bd2f3c6f21c01dad0fc141752f625f2cfd07b3ab846db9657"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SinemaCX.cs3",
@@ -1098,7 +1075,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.gg&sz=128",
     "apiVersion": 1,
-    "fileHash": "8db98726da154d1ecb7248a2e105f9b08ab419b4d376c20c226a212a71bfac59"
+    "fileHash": "sha256-8db98726da154d1ecb7248a2e105f9b08ab419b4d376c20c226a212a71bfac59"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SinemaGG.cs3",
@@ -1121,7 +1098,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=sinema.gg&sz=128",
     "apiVersion": 1,
-    "fileHash": "1e1d2ce15bba7d3cca24b391818f8b4b7d9aaa6f46d210299e7c02c15e4069fc"
+    "fileHash": "sha256-1e1d2ce15bba7d3cca24b391818f8b4b7d9aaa6f46d210299e7c02c15e4069fc"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Sinemakolik.cs3",
@@ -1144,7 +1121,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=sinemakolik.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "66ccb71dc5ba81f04965866fffae1fdd4679bd28e29a0f5e847385883be30bfe"
+    "fileHash": "sha256-66ccb71dc5ba81f04965866fffae1fdd4679bd28e29a0f5e847385883be30bfe"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Sinewix.cs3",
@@ -1167,7 +1144,7 @@
     ],
     "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
     "apiVersion": 1,
-    "fileHash": "59ed5bdecaa69659cd64eed019572fc738633758009ddf33405d4523e75fa5bb"
+    "fileHash": "sha256-59ed5bdecaa69659cd64eed019572fc738633758009ddf33405d4523e75fa5bb"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Tlctr.cs3",
@@ -1190,7 +1167,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=128",
     "apiVersion": 1,
-    "fileHash": "c9ce62d69ed5f18b291f0636ccf7c70682ccfffcd9313b231716c41bd404fc29"
+    "fileHash": "sha256-c9ce62d69ed5f18b291f0636ccf7c70682ccfffcd9313b231716c41bd404fc29"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TRanimaci.cs3",
@@ -1213,7 +1190,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=tranimaci.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "a630f5da2e518bf12d95bf24133bb3cfb981247f298e993a951c11258b136e27"
+    "fileHash": "sha256-a630f5da2e518bf12d95bf24133bb3cfb981247f298e993a951c11258b136e27"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TRasyalog.cs3",
@@ -1236,7 +1213,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=128",
     "apiVersion": 1,
-    "fileHash": "cd699d199fb49472873bacd505e94a1e4cb3fa4f60ec41a0668adae44e9deac0"
+    "fileHash": "sha256-cd699d199fb49472873bacd505e94a1e4cb3fa4f60ec41a0668adae44e9deac0"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TrDiziIzle.cs3",
@@ -1259,7 +1236,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=trdiziizle.tv&sz=128",
     "apiVersion": 1,
-    "fileHash": "7629fab8ff1471e749cefad6b11e979dc1fd4b395ce12f88f5da6b163c7d9f88"
+    "fileHash": "sha256-7629fab8ff1471e749cefad6b11e979dc1fd4b395ce12f88f5da6b163c7d9f88"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TurkAnime.cs3",
@@ -1282,7 +1259,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.tv&sz=128",
     "apiVersion": 1,
-    "fileHash": "ed81a947a5fcb2cfa6fc6fadf642afb3ba5b650ae5acef726d3ed6d25a65ab4a"
+    "fileHash": "sha256-ed81a947a5fcb2cfa6fc6fadf642afb3ba5b650ae5acef726d3ed6d25a65ab4a"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TurkSinemaDestek.cs3",
@@ -1302,7 +1279,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/support-qr.png",
     "apiVersion": 1,
-    "fileHash": "ced98b0ef78839d165db4ce83878164620ee34f2aaf9005a8ecb53463bd84d4e"
+    "fileHash": "sha256-ced98b0ef78839d165db4ce83878164620ee34f2aaf9005a8ecb53463bd84d4e"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Watch2Movies.cs3",
@@ -1325,7 +1302,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=movies2watch.watch&sz=128",
     "apiVersion": 1,
-    "fileHash": "e4a41f27314a826bb4c43aa03dc6d2c25e1a864f779ab2776b8510cc4e57ebb8"
+    "fileHash": "sha256-e4a41f27314a826bb4c43aa03dc6d2c25e1a864f779ab2776b8510cc4e57ebb8"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/WebteIzle.cs3",
@@ -1348,7 +1325,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=webteizle3.xyz&sz=128",
     "apiVersion": 1,
-    "fileHash": "756f3b5ddfcae665c9e9c3247c4a0df416c096ebe99766c39752616760b18654"
+    "fileHash": "sha256-756f3b5ddfcae665c9e9c3247c4a0df416c096ebe99766c39752616760b18654"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/YabanciDizi.cs3",
@@ -1371,7 +1348,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.news&sz=128",
     "apiVersion": 1,
-    "fileHash": "1a2ac7df3316f0ea097fd30c0ffff28d5176c41c2853042d78180e0f55dd4e1a"
+    "fileHash": "sha256-1a2ac7df3316f0ea097fd30c0ffff28d5176c41c2853042d78180e0f55dd4e1a"
   },
   {
     "name": "TurkSinema",
@@ -1391,7 +1368,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
     "fileSize": 1732307,
-    "fileHash": "6608cc770b9523665f5bd9a81c0fe69d53bf9ef5b0213fb11941ec806d3fa574",
+    "fileHash": "sha256-6608cc770b9523665f5bd9a81c0fe69d53bf9ef5b0213fb11941ec806d3fa574",
     "status": 3,
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TurkSinema.cs3"
   },
@@ -1416,6 +1393,29 @@
     "status": 3,
     "apiVersion": 1,
     "fileSize": 39699,
-    "fileHash": "db9e17c87928b114ab4ab324e2290d657e8a5523dbd3e60d38ff819dfbfe617a"
+    "fileHash": "sha256-db9e17c87928b114ab4ab324e2290d657e8a5523dbd3e60d38ff819dfbfe617a"
+  },
+  {
+    "name": "InatBox",
+    "internalName": "InatBox",
+    "version": 1,
+    "description": "İnat Box - Spor Kanalları, Canlı TV, Film ve Dizi",
+    "authors": [
+      "Wiojelt",
+      "keyiflerolsun"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/InatBox.cs3",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InatBox.webp",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "language": "tr",
+    "status": 3,
+    "apiVersion": 1,
+    "fileSize": 47569,
+    "fileHash": "sha256-678ed52835d64bc673e6e5d130f01e5fb34e7bc746d5d658c288424de06bb2db"
   }
 ]
