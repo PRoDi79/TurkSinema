@@ -483,14 +483,14 @@
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/a30f3a25fefc0dff9fd4b6af46a5eb58290b0289/DiziKorea.cs3",
     "status": 3,
-    "version": 7,
+    "version": 8,
     "name": "DiziKorea",
     "internalName": "DiziKorea",
     "authors": [
       "Wiojelt"
     ],
     "description": "Dizi Korea · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 36953,
+    "fileSize": 42860,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -501,7 +501,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizikorea3.com&sz=128",
     "apiVersion": 1,
-    "fileHash": "sha256-738d2f780856924b7f7dccfd838a9c3d91ed7ea8f0e44c7de53ce9981949ee2c"
+    "fileHash": "sha256-ec23ad5a49e08a427d4144e34e42dba67b67044bb88bb66723b382e42d6bf85b"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/a30f3a25fefc0dff9fd4b6af46a5eb58290b0289/Dizilla.cs3",
@@ -801,29 +801,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi.nl&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-b40b14cf2658254cd36a2f36105f416774e6837f83cb10ce4209859a4af6ec1a"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/a30f3a25fefc0dff9fd4b6af46a5eb58290b0289/HDFilmCehennemiAlternatif.cs3",
-    "status": 3,
-    "version": 8,
-    "name": "HDFilmCehennemiAlternatif",
-    "internalName": "HDFilmCehennemiAlternatif",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "H D Film Cehennemi · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 45249,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/HDFilmCehennemiAlternatif.ico",
-    "apiVersion": 1,
-    "fileHash": "sha256-946024e4c44b44ac2bce761c35fd7ff275686e9e71bc7025c14c8ecb5f0d8f63"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/a30f3a25fefc0dff9fd4b6af46a5eb58290b0289/HDFilmDelisi.cs3",
@@ -1340,7 +1317,7 @@
       "Wiojelt"
     ],
     "description": "TurkSinema'ya destek ol ☕ · @wiojelt · made with ♥",
-    "fileSize": 1657372,
+    "fileSize": 4416,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -1438,5 +1415,26 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.news&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-1a2ac7df3316f0ea097fd30c0ffff28d5176c41c2853042d78180e0f55dd4e1a"
+  },
+  {
+    "name": "TurkSinema",
+    "internalName": "TurkSinema",
+    "version": 6,
+    "description": "Tek pakette 59 Türkçe film, dizi, anime ve belgesel sağlayıcısı.",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
+    "fileSize": 1732236,
+    "fileHash": "sha256-06cc3175506b6c3442864d217c04bbe8fe9456237f61f72e4daa5b2501b4f0a8",
+    "status": 3
   }
 ]
