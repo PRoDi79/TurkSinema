@@ -1367,8 +1367,8 @@
             "Documentary"
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
-        "fileSize": 1767007,
-        "fileHash": "sha256-3735e121b9f31776af90601da2d1507318154b1f0b0a66fd58105e82a7e2f52f",
+        "fileSize": 1769872,
+        "fileHash": "sha256-b009be7b0fba9083a01391cc8b545612e9febf92f3ec046f95efd02b0498b302",
         "status": 3,
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TurkSinema.cs3"
     },
@@ -1404,7 +1404,7 @@
             "Wiojelt"
         ],
         "description": "Yeşilçam TV · Klasik Türk Sineması, Kemal Sunal, Cüneyt Arkın arşivi",
-        "fileSize": 31920,
+        "fileSize": 35032,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
         "language": "tr",
         "tvTypes": [
@@ -1412,7 +1412,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=yesilcamtv.com.tr&sz=128",
         "apiVersion": 1,
-        "fileHash": "sha256-d66caa2f66e872831f057ebdb61805ff1da14665fe156d622563b7813825b007"
+        "fileHash": "sha256-e81b57c298b5c8727e363cf80d48c5461aa6159bb4d5fe3b00c6692933b553ca"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/PowerSinema.cs3",
