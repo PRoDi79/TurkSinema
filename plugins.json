@@ -1443,7 +1443,7 @@
       "Wiojelt"
     ],
     "description": "Cinecat · Dizi & Film Portalı (cinecat.eu)",
-    "fileSize": 750628,
+    "fileSize": 768900,
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/CineCat.cs3",
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "all",
@@ -1454,9 +1454,9 @@
     ],
     "iconUrl": "https://cinecat.eu/android-chrome-192x192.png?v=3",
     "apiVersion": 1,
-    "version": 2,
+    "version": 3,
     "status": 3,
-    "fileHash": "sha256-2feb1408481e38ad07275086af6a770301afd34583e27bda9376de8201d455e4"
+    "fileHash": "sha256-261f248a88cee68eb58821782fa0b473868ba6d92653651ff297749709cce28d"
   },
   {
     "name": "DiziAsya",
@@ -1465,7 +1465,7 @@
       "Wiojelt"
     ],
     "description": "DiziAsya · Kore, Japon ve Çin Dizileri & Asya Sineması (diziasya.com)",
-    "fileSize": 45852,
+    "fileSize": 65019,
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziAsya.cs3",
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
@@ -1476,9 +1476,9 @@
     ],
     "iconUrl": "https://diziasya.com/apple-touch-icon.png",
     "apiVersion": 1,
-    "version": 6,
+    "version": 7,
     "status": 3,
-    "fileHash": "sha256-4e329ed3345911405d6d61e8a1ffe6ac524aa9b5355a6190e0a9689a3096d517"
+    "fileHash": "sha256-6f0c638d3ebbd4c8a55f0ba90e604868b1fe464b841fef38dc577c679db3324a"
   },
   {
     "name": "DMAX",
@@ -1487,7 +1487,7 @@
       "Wiojelt"
     ],
     "description": "DMAX · Belgesel, Macera, Canlı TV & Popüler Programlar (dmax.com.tr)",
-    "fileSize": 36983,
+    "fileSize": 56655,
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Dmax.cs3",
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
@@ -1498,8 +1498,8 @@
     ],
     "iconUrl": "https://img-dmax.mncdn.com/dmaxcomtr_logo.png",
     "apiVersion": 1,
-    "version": 3,
+    "version": 4,
     "status": 3,
-    "fileHash": "sha256-26d6dd49eaabbf8f463c88d409ca084a6b37e458cba9331cc68490a57ef500ea"
+    "fileHash": "sha256-80b2b4803e880fc5f3b28185b3be25c6d5128bb814b72d967212c0e75dc51ff0"
   }
 ]
