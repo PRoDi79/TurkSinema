@@ -1353,7 +1353,7 @@
   {
     "name": "TurkSinema",
     "internalName": "TurkSinema",
-    "version": 12,
+    "version": 13,
     "description": "Tek pakette 59 Türkçe film, dizi, anime ve belgesel sağlayıcısı.",
     "authors": [
       "Wiojelt"
@@ -1367,8 +1367,8 @@
       "Documentary"
     ],
     "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
-    "fileSize": 1821030,
-    "fileHash": "sha256-83e9ed69f96fc5a4e9e1fc0576c380db97420e03209eca29c5f0eacde8a4f231",
+    "fileSize": 1822188,
+    "fileHash": "sha256-e2169bafd5ae9df3c26b38e2e67eeff06dfa40be87393221c546169c181536a2",
     "status": 3,
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TurkSinema.cs3"
   },
