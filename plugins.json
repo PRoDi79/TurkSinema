@@ -1393,27 +1393,5 @@
         "apiVersion": 1,
         "fileSize": 57114,
         "fileHash": "sha256-8a903ba33a0b51ce75d733ad902940d14f7ed712cac5b73181b47236d8855f86"
-    },
-    {
-        "name": "InatBox",
-        "internalName": "InatBox",
-        "version": 1,
-        "description": "İnat Box - Spor Kanalları, Canlı TV, Film ve Dizi",
-        "authors": [
-            "Wiojelt"
-        ],
-        "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-        "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/InatBox.cs3",
-        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/InatBox.webp",
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Live"
-        ],
-        "language": "tr",
-        "status": 3,
-        "apiVersion": 1,
-        "fileSize": 62062,
-        "fileHash": "sha256-cb6f6e232977ea568610e128213dd45136c9f845a6ee7b175ddfb0d844a952e9"
     }
 ]
