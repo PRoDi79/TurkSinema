@@ -529,14 +529,14 @@
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziPal.cs3",
         "status": 3,
-        "version": 8,
+        "version": 9,
         "name": "DiziPal",
         "internalName": "DiziPal",
         "authors": [
             "Wiojelt"
         ],
         "description": "Dizi Pal · TurkSinema ayrı sağlayıcı paketi",
-        "fileSize": 33177,
+        "fileSize": 44256,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
         "language": "tr",
         "tvTypes": [
@@ -547,19 +547,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DiziPal.png",
         "apiVersion": 1,
-        "fileHash": "sha256-4295d11942180c5a90d48c085e627ce95e98000dae6dd79d399c56e7145d2e5e"
+        "fileHash": "sha256-ca0278818067dac2f21697c5cb0f43b16842a0008430fc071a9c530dbef9b9f1"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziPalOriginal.cs3",
         "status": 3,
-        "version": 7,
+        "version": 8,
         "name": "DiziPalOriginal",
         "internalName": "DiziPalOriginal",
         "authors": [
             "Wiojelt"
         ],
         "description": "Dizi Pal Original · TurkSinema ayrı sağlayıcı paketi",
-        "fileSize": 38038,
+        "fileSize": 43760,
         "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
         "language": "tr",
         "tvTypes": [
@@ -570,7 +570,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizipal2123.com&sz=128",
         "apiVersion": 1,
-        "fileHash": "sha256-5673c05930c173e083335fed96bd31869f9740d70f76d65c30957c7bb4409993"
+        "fileHash": "sha256-5a722dd7193fb47050c9249c64944eec4740cbdd07eb57117b7c9b0a397b1944"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziRella.cs3",
@@ -1353,7 +1353,7 @@
     {
         "name": "TurkSinema",
         "internalName": "TurkSinema",
-        "version": 6,
+        "version": 7,
         "description": "Tek pakette 59 Türkçe film, dizi, anime ve belgesel sağlayıcısı.",
         "authors": [
             "Wiojelt"
@@ -1367,8 +1367,8 @@
             "Documentary"
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
-        "fileSize": 1772622,
-        "fileHash": "sha256-f247bf5d03a048dc3fa77456efa49e21f07614892ce16da905d3cdebaddf4697",
+        "fileSize": 1788603,
+        "fileHash": "sha256-76f26811878e32c75007883410b8920809d18c412c31278b15eecde959f73b13",
         "status": 3,
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TurkSinema.cs3"
     },
