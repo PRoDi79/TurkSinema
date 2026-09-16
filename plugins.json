@@ -1367,15 +1367,15 @@
             "Documentary"
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
-        "fileSize": 1766646,
-        "fileHash": "sha256-9b7d27e5ed1ca1a7cf213a06ff894b723cf133ea2f9f877b92bc02ae3f9ee89b",
+        "fileSize": 1772622,
+        "fileHash": "sha256-f247bf5d03a048dc3fa77456efa49e21f07614892ce16da905d3cdebaddf4697",
         "status": 3,
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TurkSinema.cs3"
     },
     {
         "name": "RecTV",
         "internalName": "RecTV",
-        "version": 4,
+        "version": 5,
         "description": "RecTV - Spor, Canlı TV, Yerli/Yabancı Sinema ve Dizi Arşivi",
         "authors": [
             "Wiojelt"
@@ -1391,8 +1391,8 @@
         "language": "tr",
         "status": 3,
         "apiVersion": 1,
-        "fileSize": 57114,
-        "fileHash": "sha256-8a903ba33a0b51ce75d733ad902940d14f7ed712cac5b73181b47236d8855f86"
+        "fileSize": 63809,
+        "fileHash": "sha256-0bce976c0f10bad424df410cba597c3f1923243e76db06d20a0b040a97857616"
     },
     {
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/YesilCamTv.cs3",
