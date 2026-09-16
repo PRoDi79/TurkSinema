@@ -1239,29 +1239,6 @@
     "fileHash": "sha256-7629fab8ff1471e749cefad6b11e979dc1fd4b395ce12f88f5da6b163c7d9f88"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TurkAnime.cs3",
-    "status": 3,
-    "version": 7,
-    "name": "TurkAnime",
-    "internalName": "TurkAnime",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "Turk Anime · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 32384,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.tv&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-ed81a947a5fcb2cfa6fc6fadf642afb3ba5b650ae5acef726d3ed6d25a65ab4a"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TurkSinemaDestek.cs3",
     "status": 1,
     "version": 2,
@@ -1349,28 +1326,6 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=yabancidizi.news&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-1a2ac7df3316f0ea097fd30c0ffff28d5176c41c2853042d78180e0f55dd4e1a"
-  },
-  {
-    "name": "TurkSinema",
-    "internalName": "TurkSinema",
-    "version": 14,
-    "description": "Tek pakette 59 Türkçe film, dizi, anime ve belgesel sağlayıcısı.",
-    "authors": [
-      "Wiojelt"
-    ],
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
-    "fileSize": 1822352,
-    "fileHash": "sha256-e3792422d6ea932b6c7686d21c1ac7b058fb7ae7a4a65f4fcee7386e434b4e7b",
-    "status": 3,
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TurkSinema.cs3"
   },
   {
     "name": "RecTV",
