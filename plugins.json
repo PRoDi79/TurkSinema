@@ -1367,8 +1367,8 @@
             "Documentary"
         ],
         "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
-        "fileSize": 1732307,
-        "fileHash": "sha256-6608cc770b9523665f5bd9a81c0fe69d53bf9ef5b0213fb11941ec806d3fa574",
+        "fileSize": 1767007,
+        "fileHash": "sha256-3735e121b9f31776af90601da2d1507318154b1f0b0a66fd58105e82a7e2f52f",
         "status": 3,
         "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/TurkSinema.cs3"
     },
@@ -1393,5 +1393,47 @@
         "apiVersion": 1,
         "fileSize": 57114,
         "fileHash": "sha256-8a903ba33a0b51ce75d733ad902940d14f7ed712cac5b73181b47236d8855f86"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/YesilCamTv.cs3",
+        "status": 3,
+        "version": 1,
+        "name": "YesilCamTv",
+        "internalName": "YesilCamTv",
+        "authors": [
+            "Wiojelt"
+        ],
+        "description": "Yeşilçam TV · Klasik Türk Sineması, Kemal Sunal, Cüneyt Arkın arşivi",
+        "fileSize": 31920,
+        "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?domain=yesilcamtv.com.tr&sz=128",
+        "apiVersion": 1,
+        "fileHash": "sha256-d66caa2f66e872831f057ebdb61805ff1da14665fe156d622563b7813825b007"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/PowerSinema.cs3",
+        "status": 3,
+        "version": 1,
+        "name": "PowerSinema",
+        "internalName": "PowerSinema",
+        "authors": [
+            "Wiojelt"
+        ],
+        "description": "Power Sinema · 9.000+ Yerli & Yabancı Sinema, Animasyon ve Seri Filmler",
+        "fileSize": 36366,
+        "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "AnimeMovie",
+            "Documentary"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-d5c8502dbfbfbe163ad859b79585af5d7eea75cfc465fd46f707fe2b2c1752b0"
     }
 ]
