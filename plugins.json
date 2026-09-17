@@ -1479,5 +1479,26 @@
     "fileSize": 29858,
     "fileHash": "sha256-43cf0849c058483d5a10e4486e41fb748a207d1dbacd7f083be148145143f037",
     "apiVersion": 1
+  },
+  {
+    "name": "BingeBang",
+    "internalName": "BingeBang",
+    "version": 1,
+    "description": "BingeBang · Yüksek Kaliteli Film & Dizi Platformu (bingebang.tv)",
+    "authors": [
+      "Wiojelt"
+    ],
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/BingeBang.cs3",
+    "iconUrl": "https://bingebang.tv/favicon.ico",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "language": "all",
+    "status": 3,
+    "fileSize": 73502,
+    "fileHash": "sha256-dd6bbc72a37ff6301339dd7e4822490631ca58efa61a22ac1dc8198d394ab809",
+    "apiVersion": 1
   }
 ]
