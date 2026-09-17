@@ -1377,7 +1377,7 @@
       "Wiojelt"
     ],
     "description": "DiziAsya · Kore, Japon ve Çin Dizileri & Asya Sineması (diziasya.com)",
-    "fileSize": 65019,
+    "fileSize": 74413,
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziAsya.cs3",
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
@@ -1390,7 +1390,7 @@
     "apiVersion": 1,
     "version": 7,
     "status": 3,
-    "fileHash": "sha256-6f0c638d3ebbd4c8a55f0ba90e604868b1fe464b841fef38dc577c679db3324a"
+    "fileHash": "sha256-7755b76291199d5a0d66c84d1eb392a101216d20e02e33ccb63bc4a42ea52494"
   },
   {
     "name": "DMAX",
