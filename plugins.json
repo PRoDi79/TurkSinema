@@ -1377,7 +1377,7 @@
       "Wiojelt"
     ],
     "description": "DiziAsya · Kore, Japon ve Çin Dizileri & Asya Sineması (diziasya.com)",
-    "fileSize": 74413,
+    "fileSize": 75240,
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DiziAsya.cs3",
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
@@ -1388,9 +1388,10 @@
     ],
     "iconUrl": "https://diziasya.com/apple-touch-icon.png",
     "apiVersion": 1,
-    "version": 7,
+    "version": 8,
     "status": 3,
-    "fileHash": "sha256-7755b76291199d5a0d66c84d1eb392a101216d20e02e33ccb63bc4a42ea52494"
+    "fileHash": "sha256-7755b76291199d5a0d66c84d1eb392a101216d20e02e33ccb63bc4a42ea52494",
+    "hash": "c6faabb1c13b6daedbf9d22c8dad71a6accb27823d4b9df71d44de024b7c5b24"
   },
   {
     "name": "DMAX",
