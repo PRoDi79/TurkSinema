@@ -1456,5 +1456,26 @@
         "fileSize": 16172,
         "fileHash": "sha256-93ec0cdeca42d76064dbacaf4aed10fe13e75f76f8556c397567b76e8613ea91",
         "apiVersion": 1
+    },
+    {
+        "name": "NetShort",
+        "internalName": "NetShort",
+        "version": 1,
+        "description": "NetShort Türkçe mini dizi, dikey drama ve romantik kısa diziler (VIP bölümleri otomatik kilit açma destekli).",
+        "authors": [
+            "Wiojelt"
+        ],
+        "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+        "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/NetShort.cs3",
+        "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
+        "tvTypes": [
+            "TvSeries",
+            "AsianDrama"
+        ],
+        "language": "tr",
+        "status": 1,
+        "fileSize": 29004,
+        "fileHash": "sha256-e0df9546d60a9052a034b9c1c17d240ba69160cec62e1bbad2a911cd78607e72",
+        "apiVersion": 1
     }
 ]
