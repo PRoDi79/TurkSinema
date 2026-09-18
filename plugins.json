@@ -1447,7 +1447,7 @@
     ],
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/DramaDizilerim.cs3",
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/dramadizilerim.png",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/DramaDizilerim.png",
     "tvTypes": [
       "TvSeries",
       "Movie",
@@ -1469,7 +1469,7 @@
     ],
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/NetShort.cs3",
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/netshort.png",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/NetShort.png",
     "tvTypes": [
       "TvSeries",
       "AsianDrama"
@@ -1490,7 +1490,7 @@
     ],
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/BingeBang.cs3",
-    "iconUrl": "https://bingebang.tv/favicon.ico",
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/BingeBang.png",
     "tvTypes": [
       "Movie",
       "TvSeries"
