@@ -1110,7 +1110,7 @@
       "Wiojelt"
     ],
     "description": "Sinewix · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 40006,
+    "fileSize": 66869,
     "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
     "language": "tr",
     "tvTypes": [
@@ -1121,7 +1121,7 @@
     ],
     "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX=w240-h480",
     "apiVersion": 1,
-    "fileHash": "sha256-59ed5bdecaa69659cd64eed019572fc738633758009ddf33405d4523e75fa5bb"
+    "fileHash": "sha256-f59a5fd5d3bf367e37f70b685f32de09f510e35a4be446b7e5b6590aa1103f0e"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/Tlctr.cs3",
