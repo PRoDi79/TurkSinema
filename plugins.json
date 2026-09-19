@@ -1141,7 +1141,7 @@
   {
     "name": "RecTV",
     "internalName": "RecTV",
-    "version": 1,
+    "version": 2,
     "description": "RecTV - Spor, Canlı TV, Yerli/Yabancı Sinema ve Dizi Arşivi",
     "authors": [
       "Wiojelt"
@@ -1157,8 +1157,8 @@
     "language": "tr",
     "status": 3,
     "apiVersion": 1,
-    "fileSize": 63809,
-    "fileHash": "sha256-0bce976c0f10bad424df410cba597c3f1923243e76db06d20a0b040a97857616"
+    "fileSize": 91600,
+    "fileHash": "sha256-d2b5a931fdaef83c651e670cff9c6f95bd6289e2814220266a15a463c6361d7a"
   },
   {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/SetFilmIzle.cs3",
@@ -1522,5 +1522,28 @@
     "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
     "apiVersion": 1,
     "fileHash": "sha256-9838f0436b5195c4d8961da15eba3049491b8a673015ffe815e2c0b592b79795"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/WebDramaTurkey.cs3",
+    "status": 3,
+    "version": 8,
+    "name": "WebDramaTurkey",
+    "internalName": "WebDramaTurkey",
+    "authors": [
+      "Wiojelt"
+    ],
+    "description": "WebDramaTurkey · Asya ve Kore dizileri, Çin, Japon dizileri ve filmleri tek sağlayıcıda.",
+    "fileSize": 89703,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "language": "tr",
+    "tvTypes": [
+      "AsianDrama",
+      "Movie",
+      "Anime",
+      "Others"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-a2cf049c57ca9cb7a0506235ca138746f7ad83c88f509995b70c296b69f6cd87"
   }
 ]
