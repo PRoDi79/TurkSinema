@@ -959,28 +959,6 @@
     "fileHash": "sha256-ca95aa57baf498cfc4f3056388a51a1d806160a218167b44adc9c309ef4a5474"
   },
   {
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/InatBox.cs3",
-    "status": 3,
-    "version": 1,
-    "name": "InatBox",
-    "internalName": "InatBox",
-    "authors": [
-      "Wiojelt"
-    ],
-    "description": "İnatBox · TurkSinema ayrı sağlayıcı paketi",
-    "fileSize": 89649,
-    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/providers/InatBox.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-844bcee802af8bb724343a23e8c3633db0d81f8fbcf374d0bdb89556821c26be"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/JetFilmizle.cs3",
     "status": 3,
     "version": 8,
@@ -1522,5 +1500,27 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=yesilcamtv.com.tr&sz=128",
     "apiVersion": 1,
     "fileHash": "sha256-0900523e4eda9a8ff63fd003338983036bb5b5d3785a2961a1f2a921c8b81f22"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/InatBox.cs3",
+    "status": 3,
+    "version": 60,
+    "name": "InatBox",
+    "internalName": "InatBox",
+    "authors": [
+      "Dr.Octagon"
+    ],
+    "description": "İnatBox · Güncel sunucu protokolü ve saat eşitleme desteği.",
+    "fileSize": 49715,
+    "repositoryUrl": "https://github.com/Wiojelt/TurkSinema",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-9838f0436b5195c4d8961da15eba3049491b8a673015ffe815e2c0b592b79795"
   }
 ]
