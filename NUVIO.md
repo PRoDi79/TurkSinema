@@ -6,7 +6,7 @@ Mevcut CloudStream eklentilerini [CNCVerse Bridge Windows](https://github.com/Ni
 2. Bridge'in depo yönetimine aşağıdaki adresi ekle; istediğin sağlayıcıları yükle:
 
 ```text
-https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/nuvio.json
+https://raw.githubusercontent.com/PRoDi79/TurkSinema/main/nuvio.json
 ```
 
 3. Bridge sunucusunu başlat. Gösterdiği addon adresini **Nuvio Desktop → Eklentiler / Addons** alanına ekle. Aynı bilgisayarda varsayılan örnek:
