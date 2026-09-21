@@ -4,6 +4,6 @@
   "iconUrl": "https://raw.githubusercontent.com/PRoDi79/TurkSinema/main/assets/logo.png",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/PRoDi79/TurkSinema/builds/plugins.json"
+    "https://cdn.jsdelivr.net/gh/PRoDi79/TurkSinema@builds/plugins.json"
   ]
 }
