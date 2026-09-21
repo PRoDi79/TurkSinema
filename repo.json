@@ -1,9 +1,9 @@
 {
   "name": "TurkSinema",
   "description": "Türkçe film, dizi, anime ve belgesel sağlayıcıları",
-  "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/assets/logo.png",
+  "iconUrl": "https://raw.githubusercontent.com/PRoDi79/TurkSinema/main/assets/logo.png",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Wiojelt/TurkSinema/builds/plugins.json?v=1789515708"
+    "https://raw.githubusercontent.com/PRoDi79/TurkSinema/builds/plugins.json?v=1789515708"
   ]
 }
