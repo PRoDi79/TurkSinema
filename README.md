@@ -23,14 +23,14 @@
 
 Kısa kod:
 ```text
-mgg
+https://tinyurl.com/mgg1903
 ```
 
 ### Yeni CloudStream Beta / pre-release
 
 Kısa kod:
 ```text
-!mgg
+https://tinyurl.com/mgg1903
 ```
 
 ### Kısa kod çalışmazsa
